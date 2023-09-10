@@ -1,0 +1,25 @@
+site_name: python medusa
+site_description: python-medusa是一个闻名的爆破工具medusa的python库,可以帮助使用medusa进行端口爆破
+repo_name: hanxinkong/python-medusa
+repo_url: https://github.com/hanxinkong/python-medusa
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  palette_mode: auto
+
+nav:
+  - 首页: index.md
+  - 更新日志: log.md
